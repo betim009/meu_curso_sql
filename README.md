@@ -1,37 +1,37 @@
 
 # Meu Curso SQL
 
-This repository contains notes and exercises for learning SQL. Here I will create study scripts and queries while exploring the language.
+Este repositório contém anotações e exercícios para aprender SQL. Aqui criarei scripts de estudo e consultas enquanto exploro a linguagem.
 
-## W3Schools SQL Tutorial
+## Tutorial de SQL da W3Schools
 
-For quick reference, use the [W3Schools SQL tutorial](https://www.w3schools.com/sql/). It includes sample tables like `Customers` and `Orders` that are great for practicing SQL commands.
+Como referência rápida, utilize o [tutorial de SQL da W3Schools](https://www.w3schools.com/sql/). Ele inclui tabelas de exemplo como `Customers` e `Orders`, ótimas para praticar comandos SQL.
 
-## Using the W3Schools Online SQL Editor
+## Utilizando o editor online da W3Schools
 
-1. Open the [online editor](https://www.w3schools.com/sql/trysql.asp).
-2. Choose an example or write your own query in the text box.
-3. Click **Run SQL** to execute the command and view the results.
+1. Abra o [editor online](https://www.w3schools.com/sql/trysql.asp).
+2. Escolha um exemplo ou escreva sua própria consulta na caixa de texto.
+3. Clique em **Run SQL** para executar o comando e visualizar os resultados.
 
 # meu_curso_sql
 
-This repository contains SQL exercises.
+Este repositório contém exercícios de SQL.
 
-## Using the W3Schools "Try SQL" editor
+## Usando o editor "Try SQL" da W3Schools
 
-To quickly run the queries without a local database, open the [Try SQL](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) page and:
+Para executar rapidamente as consultas sem um banco de dados local, abra a página [Try SQL](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) e:
 
-1. Open `w3schools_exercises.sql` from this repository and copy its contents.
-2. Paste the SQL into the editor.
-3. Execute each query and check the output.
+1. Abra o arquivo `w3schools_exercises.sql` deste repositório e copie seu conteúdo.
+2. Cole o SQL no editor.
+3. Execute cada consulta e verifique a saída.
 
-### Limitations compared to a local DBMS
+### Limitações em comparação com um SGBD local
 
-The W3Schools environment runs on a demo database and has some restrictions:
+O ambiente da W3Schools roda em um banco de demonstração e possui algumas restrições:
 
-- Tables cannot be permanently created or modified.
-- Only a subset of SQL commands is available.
-- Data is reset whenever the page is reloaded.
+- Não é possível criar ou modificar tabelas de forma permanente.
+- Apenas um subconjunto de comandos SQL está disponível.
+- Os dados são resetados sempre que a página é recarregada.
 
-For more advanced tests or your own data, run the exercises on a local engine such as SQLite, PostgreSQL or MySQL.
+Para testes mais avançados ou para usar seus próprios dados, execute os exercícios em um motor local como SQLite, PostgreSQL ou MySQL.
 
