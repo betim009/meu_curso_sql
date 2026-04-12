@@ -1,0 +1,5 @@
+2. Crie uma procedure que retorne todos os produtos que estão sem estoque.
+
+3. Crie uma procedure que exclua um cliente passando o id como parametro, e a procedure deve deletar somente se o cliente não tiver pedidos.
+
+4. Crie uma procedure que passe como parâmetro o id do produto e o ano e retorne como variável OUT a quantidade vendida.
