@@ -1,0 +1,1 @@
+-- Um banco de dados é como uma “pasta” onde você guarda suas tabelas.
